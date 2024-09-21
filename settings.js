@@ -4,7 +4,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-ERROR-V1.ytname = "YT: @EMMYHENZTECHINFO" //ur yt chanel name
+ERROR-V1.ytname = "YT: https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" //ur yt chanel name
 ERROR-V1.socialm = "GitHub: EMMYHENZ-TECH" //ur github or insta name
 ERROR-V1.location = "Africa, Nigeria, Calabar" //ur location
 
@@ -25,7 +25,7 @@ ERROR-V1.premium = ["2349125042727"] // Premium User
 
 //channel id
 ERROR-V1.xchannel = {
-	jid: '120363319098372999@newsletter'
+	jid: ''
 	}
 
 //bot sett
